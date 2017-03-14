@@ -1,0 +1,3 @@
+Tea,25
+Coffee,35
+Juice,45
